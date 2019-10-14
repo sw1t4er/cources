@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DZ3_Generic:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DZ3_Generic_jar</output-path>
+    <root id="archive" name="DZ3_Generic.jar">
+      <element id="module-output" name="DZ3_Generic" />
+    </root>
+  </artifact>
+</component>
