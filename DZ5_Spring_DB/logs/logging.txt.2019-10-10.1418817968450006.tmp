@@ -1,3 +1,0 @@
-2019-10-10 18:42:50,489 ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper [main] ERROR: relation "users" does not exist
-  Позиция: 254
-2019-10-10 18:42:50,731 INFO com.zaxxer.hikari.HikariDataSource [Thread-3] HikariPool-1 - Shutdown initiated...
